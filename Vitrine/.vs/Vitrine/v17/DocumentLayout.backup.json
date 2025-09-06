@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\models\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\models\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\views\\usuario\\sucesso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\views\\usuario\\sucesso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\models\\imagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\models\\imagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\views\\imagem\\sucesso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\views\\imagem\\sucesso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|f:\\aula_etec\\pwiii-2025\\2\u00BA semestre\\vitrine_webappaspnetcore\\vitrine\\vitrine\\views\\imagem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A78CB29-7924-4704-82EA-6FE0A94E0E7F}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\views\\imagem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Criptografia.cs",
-              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Models\\Criptografia.cs",
-              "RelativeDocumentMoniker": "Vitrine\\Models\\Criptografia.cs",
-              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Models\\Criptografia.cs",
-              "RelativeToolTip": "Vitrine\\Models\\Criptografia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T00:41:16.198Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Sucesso.cshtml",
-              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Views\\Usuario\\Sucesso.cshtml",
-              "RelativeDocumentMoniker": "Vitrine\\Views\\Usuario\\Sucesso.cshtml",
-              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Views\\Usuario\\Sucesso.cshtml",
-              "RelativeToolTip": "Vitrine\\Views\\Usuario\\Sucesso.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Views\\Imagem\\Sucesso.cshtml",
+              "RelativeDocumentMoniker": "Vitrine\\Views\\Imagem\\Sucesso.cshtml",
+              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Views\\Imagem\\Sucesso.cshtml",
+              "RelativeToolTip": "Vitrine\\Views\\Imagem\\Sucesso.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-06T00:24:25.181Z",
+              "WhenOpened": "2025-09-06T23:19:03.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Views\\Usuario\\Index.cshtml",
-              "RelativeDocumentMoniker": "Vitrine\\Views\\Usuario\\Index.cshtml",
-              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Views\\Usuario\\Index.cshtml",
-              "RelativeToolTip": "Vitrine\\Views\\Usuario\\Index.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswBUAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Views\\Imagem\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vitrine\\Views\\Imagem\\Index.cshtml",
+              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Views\\Imagem\\Index.cshtml",
+              "RelativeToolTip": "Vitrine\\Views\\Imagem\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-06T00:12:34.382Z",
+              "WhenOpened": "2025-09-06T23:04:52.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Vitrine\\Controllers\\UsuarioController.cs",
-              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Vitrine\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwB8AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:56:10.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Program.cs",
-              "RelativeDocumentMoniker": "Vitrine\\Program.cs",
-              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Program.cs",
-              "RelativeToolTip": "Vitrine\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:47:19.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\appsettings.json",
-              "RelativeDocumentMoniker": "Vitrine\\appsettings.json",
-              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\appsettings.json",
-              "RelativeToolTip": "Vitrine\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-05T23:44:50.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Vitrine\\Data\\AppDbContext.cs",
-              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Vitrine\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:37:21.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Imagem.cs",
               "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Models\\Imagem.cs",
               "RelativeDocumentMoniker": "Vitrine\\Models\\Imagem.cs",
               "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Models\\Imagem.cs",
               "RelativeToolTip": "Vitrine\\Models\\Imagem.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T22:40:59.043Z",
+              "WhenOpened": "2025-09-06T22:57:30.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "Vitrine\\Models\\Produto.cs",
-              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Models\\Produto.cs",
-              "RelativeToolTip": "Vitrine\\Models\\Produto.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ImagemController.cs",
+              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Controllers\\ImagemController.cs",
+              "RelativeDocumentMoniker": "Vitrine\\Controllers\\ImagemController.cs",
+              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Controllers\\ImagemController.cs",
+              "RelativeToolTip": "Vitrine\\Controllers\\ImagemController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T22:40:43.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Vitrine\\Models\\Usuario.cs",
-              "ToolTip": "F:\\AULA_ETEC\\PWIII-2025\\2\u00BA Semestre\\Vitrine_WebAppAspNetCore\\Vitrine\\Vitrine\\Models\\Usuario.cs",
-              "RelativeToolTip": "Vitrine\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T22:40:26.985Z",
+              "WhenOpened": "2025-09-06T22:49:32.097Z",
               "EditorCaption": ""
             }
           ]

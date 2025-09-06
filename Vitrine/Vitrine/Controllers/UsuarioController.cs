@@ -5,9 +5,9 @@ using Vitrine.Models;
 namespace Vitrine.Controllers {
     public class UsuarioController : Controller {
 
-        private readonly AppDbContext _context;
-
         //-----------------------------------------------
+        private readonly AppDbContext _context;
+              
         // Injeção de dependência do DbContext
         public UsuarioController(AppDbContext context) {
             _context = context;
